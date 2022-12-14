@@ -1,8 +1,6 @@
-
 # Spotify API
 
 This is a REST API that can be used to create Spotify-like music application 🎵.
-
 
 ## Tech Stack
 
@@ -12,11 +10,9 @@ This is a REST API that can be used to create Spotify-like music application �
 
 **ORM:** Sequelize
 
-
 ## Database diagram
 
 [![spotify-db-diagram.png](https://i.postimg.cc/BtWtsnVX/spotify-db-diagram.png)](https://postimg.cc/rRJqNMck)
-
 
 ## Project Structure
 
@@ -51,6 +47,7 @@ This is a REST API that can be used to create Spotify-like music application �
     │   └── ... 
 
 ```
+
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
@@ -65,19 +62,18 @@ To run this project, you will need to add the following environment variables to
 
 `SECRET_KEY`
 
-
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/WinterSakuraa/spotify-api.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd project-name
+  cd spotify-api
 ```
 
 Install dependencies
